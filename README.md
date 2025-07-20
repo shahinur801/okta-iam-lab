@@ -14,9 +14,6 @@
 
 ## Screenshots
 [](https://github.com/shahinur801/okta-iam-lab/blob/main/screenshots/add-person.png) [](https://github.com/shahinur801/okta-iam-lab/blob/main/screenshots/group-assignment.png) [](https://github.com/shahinur801/okta-iam-lab/blob/main/screenshots/mfa-policy.png) [](https://github.com/shahinur801/okta-iam-lab/blob/main/screenshots/system-log.png)
-
-## Screenshots
-
 ![Add Person](screenshots/add-person.png)
 ![Group Assignment](screenshots/group-assignment.png)
 ![MFA Policy](screenshots/mfa-policy.png)
