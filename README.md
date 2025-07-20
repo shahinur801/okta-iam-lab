@@ -13,7 +13,8 @@
 - Demonstrated deprovisioning + event auditing
 
 ## Screenshots
-[](https://github.com/shahinur801/okta-iam-lab/blob/main/screenshots/add-person.png) [](https://github.com/shahinur801/okta-iam-lab/blob/main/screenshots/group-assignment.png) [](https://github.com/shahinur801/okta-iam-lab/blob/main/screenshots/mfa-policy.png) [](https://github.com/shahinur801/okta-iam-lab/blob/main/screenshots/system-log.png)
+[](https://github.com/shahinur801/okta-iam-lab/blob/main/screenshots/add-person.png) [](https://github.com/shahinur801/okta-iam-lab/blob/main/screenshots/group-assignment.png) 
+[](https://github.com/shahinur801/okta-iam-lab/blob/main/screenshots/mfa-policy.png) [](https://github.com/shahinur801/okta-iam-lab/blob/main/screenshots/system-log.png)
 ![Add Person](add-person.png)
 ![Group Assignment](group-assignment.png)
 ![MFA Policy](mfa-policy.png)
